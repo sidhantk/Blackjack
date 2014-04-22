@@ -1,6 +1,9 @@
 /** Secondary class which will handle each player connecting to a socket,
 including reading and writing for each Handler. **/
 
+// We used a socket programming tutorial from the CS department at Loyola Marymount University to obtain
+// a basic outline of a handler, and then we customized it accordingly for our needs.
+
 import java.io.*;
 import java.util.*;
 import java.lang.*;
